@@ -5,6 +5,6 @@
 
 [![Sxmtee's github stats](https://github-readme-stats.vercel.app/api?username=Sxmtee&theme=radical)](https://github.com/Sxmtee/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmtee&layout=compact)](https://github.com/Sxmtee/github-readme-stats)
+//##[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmtee&layout=compact)](https://github.com/Sxmtee/github-readme-stats)
 
 
