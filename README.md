@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any project as regards to mobile app development
 - 📫 You can reach me on my email somtoo76@gmail.com or https://linktr.ee/somtee
 
-(https://github-readme-stats.vercel.app/api?username=Sxmtee&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Sxmtee&theme=radical
