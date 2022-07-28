@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning new stuff about web development
 - 💞️ I’m looking to collaborate on any project as regards to mobile app development
 
-https://github-readme-stats.vercel.app/api?username=Sxmtee
+[![Sxmtee's github stats](https://github-readme-stats.vercel.app/api?username=Sxmtee)](https://github.com/Sxmtee/github-readme-stats)
