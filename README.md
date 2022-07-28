@@ -3,4 +3,8 @@
 - 🌱 I’m currently learning new stuff about web development
 - 💞️ I’m looking to collaborate on any project as regards to mobile app development
 
-[![Sxmtee's github stats](https://github-readme-stats.vercel.app/api?username=Sxmtee)](https://github.com/Sxmtee/github-readme-stats)
+[![Sxmtee's github stats](https://github-readme-stats.vercel.app/api?username=Sxmtee&theme=radical)](https://github.com/Sxmtee/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmtee&layout=compact)](https://github.com/Sxmtee/github-readme-stats)
+
+
