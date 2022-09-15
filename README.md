@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I’m @Sxmtee</h3>
+<h3 align="left">👋 Hi, I’m Sxmtee</h3>
 
 <h3 align="left">👨‍💻 About Me :</h3>
 
