@@ -15,6 +15,4 @@
 
 [![Sxmtee's github stats](https://github-readme-stats.vercel.app/api?username=Sxmtee&theme=radical)](https://github.com/Sxmtee/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxmtee" alt="sxmtee" /></a> </p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmtee&layout=compact)](https://github.com/Sxmtee/github-readme-stats)
