@@ -4,7 +4,7 @@
 
 - 👀 I’m a creative Software Developer and stickler for proper development practices, good UI/UX and clean code. My background in Science and my experience in Software development has allowed me to bring the best of both worlds. This is proven by the fact of having led several projects which increased companies’ performance efficiency and revenues on a full scale.
 
-- I love learning about new tools and modern technologies in both AI/ML and Mobile apps, and employing them to build remarkable software experiences. I'm also relentless about building vibrant tech communities and contributing to open sources. My Skill Set includes: Mobile app & Backend Development.
+- I love learning about new tools and modern technologies in both AI Engineering and Mobile apps, and employing them to build remarkable software experiences. I'm also relentless about building vibrant tech communities and contributing to open sources. My Skill Set includes: Mobile app development & AI.
 
 
 <h3 align="left">Languages and Tools:</h3>
